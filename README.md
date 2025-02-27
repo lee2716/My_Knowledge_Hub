@@ -1,4 +1,4 @@
-# My-Knowledge-Hub
+# My Knowledge Hub
 
 ## 📌 About This Repository
 This repository serves as a collection of insightful articles, personal notes, and technical resources to facilitate continuous learning and knowledge sharing.
