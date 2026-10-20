@@ -1,6 +1,6 @@
 # My Knowledge Hub
 
-A personal collection of notes and summaries of articles, talks and book chapters I find worth remembering — mostly about **deep learning** and **software engineering**.
+A personal collection of notes and summaries of articles, talks and book chapters I find worth remembering — mostly about **deep learning** and **software engineering** — plus working documents on my own research in **accelerator simulation and AI compilers** on the PULP platform.
 
 ## 📚 Index
 
@@ -11,11 +11,19 @@ A personal collection of notes and summaries of articles, talks and book chapter
 | [A Visual Proof That Neural Nets Can Compute Any Function](Articles/A_Visual_Proof_That_Neural_Nets_Can_Compute_Any_Function.md) | Michael Nielsen, *Neural Networks and Deep Learning*, Ch. 4 | Deep learning, universal approximation |
 | [Leslie Lamport: Programming ≠ Coding](Articles/Coding_Is_Only_the_Final_Step_of_Programming.md) | Leslie Lamport, Stanford lecture | Software engineering, formal methods |
 
+### Research
+
+| Title | What it is | Topics |
+|-------|------------|--------|
+| [Research Map: Accelerator Simulation and AI Compilers on PULP](Research/Research_Map.md) | My five work lines, the nine fields they touch, a work-line × field matrix and three judgments, reverse-engineered from my GitHub repositories | HW/SW co-design, GVSoC, Deeploy, in-memory computing |
+| [Trend Radar: Fifteen People to Follow Deeply](Research/Trend_Radar.md) | The fifteen people I follow deeply (same work / different interests / opposite conclusions) with links, why and what to track; a bench, standing counter-arguments, calibration signals, the themes my community's reading stream returns to, a cadence and a prediction ledger | Research taste, in-memory computing, accelerators, AI compilers |
+
 ## 📂 Structure
 
 ```
 My_Knowledge_Hub/
 ├── Articles/     # Summaries of blogs, articles, talks and book chapters
+├── Research/     # Working documents on my own research: map, trend radar, prediction ledger
 └── Templates/    # Templates for new notes
 ```
 
