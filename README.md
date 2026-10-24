@@ -18,11 +18,18 @@ A personal collection of notes and summaries of articles, talks and book chapter
 | [Research Map: Accelerator Simulation and AI Compilers on PULP](Research/Research_Map.md) | My five work lines, the nine fields they touch, a work-line × field matrix and three judgments, reverse-engineered from my GitHub repositories | HW/SW co-design, GVSoC, Deeploy, in-memory computing |
 | [Trend Radar: Fifteen People to Follow Deeply](Research/Trend_Radar.md) | The fifteen people I follow deeply (same work / different interests / opposite conclusions) with links, why and what to track; a bench, standing counter-arguments, calibration signals, the themes my community's reading stream returns to, a cadence and a prediction ledger | Research taste, in-memory computing, accelerators, AI compilers |
 
+### Blog
+
+| Title | What it is | Topics |
+|-------|------------|--------|
+| [Fifteen People, Not a Hundred](Blog/2026-10-24-fifteen-people-not-a-hundred.md) | A public write-up of the trend radar: three seats, the fifteen people, the texts I re-read yearly, the signals that do not depend on people, and the prediction notebook | Research taste, accelerators, in-memory computing |
+
 ## 📂 Structure
 
 ```
 My_Knowledge_Hub/
 ├── Articles/     # Summaries of blogs, articles, talks and book chapters
+├── Blog/         # Public write-ups drafted from the research documents
 ├── Research/     # Working documents on my own research: map, trend radar, prediction ledger
 └── Templates/    # Templates for new notes
 ```
